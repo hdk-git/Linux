@@ -1,4 +1,6 @@
 ''test''
 ```bash
-ifconfig
+ifconfig/n
+ip link show/n
+ip -a
 ```
